@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:\\Users\\Sulaiman Mohyuddin\\Documents\\libraries\\SFML-2.5.1\\include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:/msys64/mingw64/bin/gcc.exe",
+            "compilerArgs": [
+                "-lbgi",
+                "-lgdi32",
+                "-lcomdlg32",
+                "-luuid",
+                "-loleaut32",
+                "-lole32"
+            ],
+            "intelliSenseMode": "windows-gcc-x86",
+            "cppStandard": "c++11"
+        }
+    ],
+    "version": 4
+}
